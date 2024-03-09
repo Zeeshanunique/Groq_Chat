@@ -28,9 +28,9 @@ Additional Resources:
 - [Mixtral 8x7b](…)
 - [LangChain](…)
 
-To get started:
+Usage:
 
--Fork the repository: [](https://github.com/Zeeshanunique/Groq_Chat.git)]
--Clone the repository locally: git clone [github link]
--Install the required dependencies: pip install -r requirements.txt
--Run the script: python main.py
+Clone the repository.
+Create a virtual environment.
+Install the required dependencies.
+Run the script.
