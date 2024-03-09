@@ -28,9 +28,9 @@ Additional Resources:
 - [Mixtral 8x7b](…)
 - [LangChain](…)
 
-Usage:
+To get started:
 
-1. Clone the repository.
-2. Create a virtual environment.
-3. Install the required dependencies.
-4. Run the script.
+Fork the repository: [github link]
+Clone the repository locally: git clone [github link]
+Install the required dependencies: pip install -r requirements.txt
+Run the script: python main.py
