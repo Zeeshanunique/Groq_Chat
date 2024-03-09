@@ -1,4 +1,4 @@
- Building a World-Class AI Chatbot with Groq Chat
+Project Name: Building a World-Class AI Chatbot with Groq Chat
 
 Project Overview:
 
@@ -30,7 +30,7 @@ Additional Resources:
 
 Usage:
 
-Clone the repository.
-Create a virtual environment.
-Install the required dependencies.
-Run the script.
+1. Clone the repository.
+2. Create a virtual environment.
+3. Install the required dependencies.
+4. Run the script.
