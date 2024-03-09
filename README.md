@@ -30,7 +30,7 @@ Additional Resources:
 
 To get started:
 
-Fork the repository: [](https://github.com/Zeeshanunique/Groq_Chat.git)]
-Clone the repository locally: git clone [github link]
-Install the required dependencies: pip install -r requirements.txt
-Run the script: python main.py
+-Fork the repository: [](https://github.com/Zeeshanunique/Groq_Chat.git)]
+-Clone the repository locally: git clone [github link]
+-Install the required dependencies: pip install -r requirements.txt
+-Run the script: python main.py
